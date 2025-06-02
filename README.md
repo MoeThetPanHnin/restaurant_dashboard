@@ -2,7 +2,7 @@
 
 A modern, interactive dashboard to visualize restaurant metrics — built entirely with **Vite**, **React**, and **Shadcn UI**.
 
-![Dashboard Screenshot](./assets/dashboard-screenshot.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ---
 
